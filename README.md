@@ -7,4 +7,4 @@ My expertise includes infrastructure deployment automation using tools like Terr
 My passion for innovation and continuous learning keeps me up-to-date with the latest industry trends and technologies, and my skill in collaborating within dynamic teams enables me to successfully address complex problems.
 
 - 🔭 I’m currently working on DevSecOps & Cloud Architecture
-- 🌱 I’m currently learning project management & MLOps 
+- 🌱 I’m currently learning project management & Software Engineering
