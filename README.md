@@ -45,7 +45,7 @@ Project Management · AI for Software Engineering · FinOps · Cloud Security
 ---
 
 ### 📫 Let's connect!
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/juan-camilo-escobar/) or explore my public projects to see what I'm currently building.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jcescobarn/) or explore my public projects to see what I'm currently building.
 
 ---
 
