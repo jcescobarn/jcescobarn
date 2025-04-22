@@ -2,7 +2,7 @@
 
 I'm an **IT professional** passionate about automation, cloud architecture, and building scalable and secure solutions. I have solid experience optimizing software development workflows and leading DevSecOps initiatives in AWS and Azure environments.
 
-I specialize in **Infrastructure as Code**, automated deployments, containerization, Kubernetes orchestration, and security best practices from the ground up. I enjoy building robust, efficient, and standards-compliant solutions.
+I work in **Infrastructure as Code**, automated deployments, containerization, Kubernetes orchestration, and security best practices from the ground up. I enjoy building robust, efficient, and standards-compliant solutions.
 
 ---
 
