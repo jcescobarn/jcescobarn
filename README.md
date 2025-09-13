@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Juan Camilo
+## 👋 Hi there! I'm Juan
 
 I'm an **IT professional** passionate about automation, cloud architecture, and building scalable and secure solutions. I have solid experience optimizing software development workflows and leading DevSecOps initiatives in AWS and Azure environments.
 
