@@ -66,18 +66,6 @@ Project Management · AI for Software Engineering · FinOps · Cloud Security
 
 ---
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcescobarn&theme=radical&hide_border=true&area=true" alt="Contribution graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=jcescobarn&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
-
 ### 📫 Let's connect
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/jcescobarn/), or explore my public repos to see what I'm building.
